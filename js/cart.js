@@ -65,7 +65,7 @@ function actualizarBotonesEliminar() {
 
 function eliminarDelCarrito(e) {
     Toastify({
-        text: "Producto eliminado",
+        text: "Product eliminated",
         duration: 3000,
         close: true,
         gravity: "top", // `top` or `bottom`
@@ -99,12 +99,12 @@ function vaciarCarrito() {
     cargarProductosCarrito();
 
     Swal.fire({
-        title: '¿Estás seguro?',
+        title: 'Are you sure?',
         icon: 'question',
-        html: `Se van a borrar ${productosEnCarrito.reduce((acc, producto) => acc + producto.cantidad, 0)} productos.`,
+        html: `They are going to be deleted ${productosEnCarrito.reduce((acc, producto) => acc + producto.cantidad, 0)} products.`,
         showCancelButton: true,
         focusConfirm: false,
-        confirmButtonText: 'Sí',
+        confirmButtonText: 'Yes',
         cancelButtonText: 'No'
     }).then((result) => {
         if (result.isConfirmed) {
