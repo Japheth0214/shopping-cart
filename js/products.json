@@ -1,93 +1,93 @@
 [
     {
         "id": "abrigo-01",
-        "titulo": "Coat 01",
+        "titulo": "Blue Puffer Jacket",
         "imagen": "./img/coats/01.jpg",
         "categoria": {
             "nombre": "Coats",
             "id": "abrigos"
         },
-        "precio": 1000
+        "precio": 250
     },
     {
         "id": "abrigo-02",
-        "titulo": "Coat 02",
+        "titulo": "Dinner Jacket",
         "imagen": "./img/coats/02.jpg",
         "categoria": {
             "nombre": "Coats",
             "id": "abrigos"
         },
-        "precio": 2000
+        "precio": 499
     },
     {
         "id": "abrigo-03",
-        "titulo": "Coat 03",
+        "titulo": "Barbour",
         "imagen": "./img/coats/03.jpg",
         "categoria": {
             "nombre": "Coats",
             "id": "abrigos"
         },
-        "precio": 1000
+        "precio": 280
     },
     {
         "id": "abrigo-04",
-        "titulo": "Coat 04",
+        "titulo": "Dawn Jacket",
         "imagen": "./img/coats/04.jpg",
         "categoria": {
             "nombre": "Coats",
             "id": "abrigos"
         },
-        "precio": 1000
+        "precio": 350
     },
     {
         "id": "abrigo-05",
-        "titulo": "Coat 05",
+        "titulo": "Hoodie",
         "imagen": "./img/coats/05.jpg",
         "categoria": {
             "nombre": "Coats",
             "id": "abrigos"
         },
-        "precio": 1000
+        "precio": 199
     },
     {
         "id": "camiseta-01",
-        "titulo": "T-Shirt 01",
+        "titulo": "Blue Casual",
         "imagen": "./img/tshirts/01.jpg",
         "categoria": {
             "nombre": "T-shirts",
             "id": "camisetas"
         },
-        "precio": 1000
+        "precio": 40
     },
     {
         "id": "camiseta-02",
-        "titulo": "T-Shirt 02",
+        "titulo": "White Beach Shirt",
         "imagen": "./img/tshirts/02.jpg",
         "categoria": {
             "nombre": "T-shirts",
             "id": "camisetas"
         },
-        "precio": 1000
+        "precio": 29
     },
     {
         "id": "camiseta-03",
-        "titulo": "T-Shirt 03",
+        "titulo": "White Florida Beach Shirt",
         "imagen": "./img/tshirts/03.jpg",
         "categoria": {
             "nombre": "T-shirts",
             "id": "camisetas"
         },
-        "precio": 1000
+        "precio": 29
     },
     {
         "id": "camiseta-04",
-        "titulo": "T-Shirt 04",
+        "titulo": "Red Casual Shirt",
         "imagen": "./img/tshirts/04.jpg",
         "categoria": {
             "nombre": "T-shirts",
             "id": "camisetas"
         },
-        "precio": 1000
+        "precio": 35
     },
     {
         "id": "camiseta-05",
@@ -97,7 +97,7 @@
             "nombre": "T-shirts",
             "id": "camisetas"
         },
-        "precio": 1000
+        "precio": 40
     },
     {
         "id": "camiseta-06",
@@ -107,7 +107,7 @@
             "nombre": "T-shirts",
             "id": "camisetas"
         },
-        "precio": 1000
+        "precio": 35
     },
     {
         "id": "camiseta-07",
@@ -117,7 +117,7 @@
             "nombre": "T-shirts",
             "id": "camisetas"
         },
-        "precio": 1000
+        "precio": 40
     },
     {
         "id": "camiseta-08",
@@ -127,56 +127,56 @@
             "nombre": "T-shirts",
             "id": "camisetas"
         },
-        "precio": 1000
+        "precio": 40
     },
     {
         "id": "pantalon-01",
-        "titulo": "Pants 01",
+        "titulo": "Beige Pants",
         "imagen": "./img/pants/01.jpg",
         "categoria": {
             "nombre": "Pants",
             "id": "pantalones"
         },
-        "precio": 1000
+        "precio": 50
     },
     {
         "id": "pantalon-02",
-        "titulo": "Pants 02",
+        "titulo": "Plain White Pants",
         "imagen": "./img/pants/02.jpg",
         "categoria": {
             "nombre": "Pants",
             "id": "pantalones"
         },
-        "precio": 1000
+        "precio": 45
     },
     {
         "id": "pantalon-03",
-        "titulo": "Pants 03",
+        "titulo": "Black fitted Pants",
         "imagen": "./img/pants/03.jpg",
         "categoria": {
             "nombre": "Pants",
             "id": "pantalones"
         },
-        "precio": 1000
+        "precio": 45
     },
     {
         "id": "pantalon-04",
-        "titulo": "Pants 04",
+        "titulo": "Black formal Pants",
         "imagen": "./img/pants/04.jpg",
         "categoria": {
             "nombre": "Pants",
             "id": "pantalones"
         },
-        "precio": 1000
+        "precio": 50
     },
     {
         "id": "pantalon-05",
-        "titulo": "Pants 05",
+        "titulo": "Dark Grey Pants",
         "imagen": "./img/pants/05.jpg",
         "categoria": {
             "nombre": "Pants",
             "id": "pantalones"
         },
-        "precio": 1000
+        "precio": 45
     }
 ]
