@@ -28,19 +28,19 @@ function cargarProductosCarrito() {
             div.innerHTML = `
                 <img class="carrito-producto-imagen" src="${producto.imagen}" alt="${producto.titulo}">
                 <div class="carrito-producto-titulo">
-                    <small>Título</small>
+                    <small>Title</small>
                     <h3>${producto.titulo}</h3>
                 </div>
                 <div class="carrito-producto-cantidad">
-                    <small>Cantidad</small>
+                    <small>Quantity</small>
                     <p>${producto.cantidad}</p>
                 </div>
                 <div class="carrito-producto-precio">
-                    <small>Precio</small>
+                    <small>Price</small>
                     <p>$${producto.precio}</p>
                 </div>
                 <div class="carrito-producto-subtotal">
-                    <small>Subtotal</small>
+                    <small>Sub total</small>
                     <p>$${producto.precio * producto.cantidad}</p>
                 </div>
                 <button class="carrito-producto-eliminar" id="${producto.id}"><i class="bi bi-trash-fill"></i></button>
