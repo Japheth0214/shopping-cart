@@ -108,7 +108,7 @@ function vaciarCarrito() {
     Swal.fire({
         title: 'Are you sure?',
         icon: 'question',
-        html: `They are going to be deleted ${productosEnCarrito.reduce((acc, producto) => acc + producto.cantidad, 0)} products.`,
+        html: `${productosEnCarrito.reduce((acc, producto) => acc + producto.cantidad, 0)} products are going to be deleted.`,
         showCancelButton: true,
         focusConfirm: false,
         confirmButtonText: 'Yes',
